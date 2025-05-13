@@ -30,7 +30,7 @@
 ---
 
 ### 📊 GitHub Stats
-p align="center">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aakriti&theme=radical" alt="aakriti" />
 </p>
 
