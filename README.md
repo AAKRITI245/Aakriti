@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Hello,+World!;it's+me+Aakriti+Gautam;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Hello,+World!;it's+me+Aakriti;" alt="Typing SVG" />
 </p>
 
 ---
@@ -31,9 +31,6 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aakriti&show_icons=true&theme=radical" alt="aakriti" />
-</p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aakriti&theme=radical" alt="aakriti" />
 </p>
