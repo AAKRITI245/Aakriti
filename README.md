@@ -3,7 +3,7 @@
 <h3 align="center">🌙 Dreamer | 💻 IT Student | 🌿 Nature Lover</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Hello+World+it's+me+Aakriti+Gautam;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Hello+World;it's+me+Aakriti+Gautam;" alt="Typing SVG" />
 </p>
 
 ---
