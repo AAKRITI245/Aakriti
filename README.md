@@ -1,6 +1,6 @@
 <!-- GitHub Profile README for Aakriti -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+I'm+Aakriti;IT+Student+%7C+Dreamer+%7C+Doer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Hello+world +I'm+Aakriti;+%7C+Dreamer+%7C+Doer" alt="Typing SVG" />
 </p>
 
 
