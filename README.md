@@ -9,7 +9,7 @@
 
 ### 🌟 About Me
 
-- 🔭 I’m currently working on **JavaScript and React**  
+- 🔭 I’m currently working on **JavaScript React C++**  
 - 🎓 Studying **Information Technology**  
 - 🌱 Always learning and exploring    
 - 📬 Reach me at: `aakritig878@gmail.com`  
